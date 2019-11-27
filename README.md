@@ -1,0 +1,1 @@
+Issue tracker built using vanilla JavaScript with Bootstrap for styling and Chance.js to create a GUID for each item.
